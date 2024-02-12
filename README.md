@@ -1,6 +1,10 @@
 <h1 align="center">
- React.Js Hooks, CRUD with Axios using Vite
+ Redux-Toolkit with CRUD Application with Axios using Vite template
 </h1>
+
+<p>
+In this project, I tried to build a Redux Toolkit project with CRUD Application to consume Rest API, display and modify data with React Router, Axios & Bootstrap.
+</p>
 
 ## Credits
 
