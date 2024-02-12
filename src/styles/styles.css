@@ -1,0 +1,14 @@
+.form_add_tutorial {
+    min-height: 70vh;
+    /* Set minimum height to 70% of the viewport height */
+}
+
+.tutorial_list {
+    min-height: 70vh;
+
+}
+
+.tutorial_selected {
+    height: 50vh;
+
+}
